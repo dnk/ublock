@@ -1,0 +1,17 @@
+! Title: uBlock filters -- dnk
+! Expires: 4 days
+! License: https://creativecommons.org/licenses/by/3.0/
+
+! 1/11/2020 https://www.rbc.ru
+www.rbc.ru##.js-push-allow.push-allow
+www.rbc.ru##.live-tv__main.live-tv
+www.rbc.ru##.topline__forecast
+www.rbc.ru##iframe[id^="google_ads_iframe"]
+
+! 5/9/2020 https://www.autonews.ru
+www.autonews.ru##.js-header-popup.header__rubric__popup
+www.autonews.ru##.js-push-allow.push-allow
+www.autonews.ru##.live-tv__main.live-tv
+www.autonews.ru##.topline__forecast
+www.autonews.ru##iframe[id^="google_ads_iframe"]
+
